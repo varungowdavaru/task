@@ -8,16 +8,17 @@ engile enige test task
 Project is created with:
 
 - Python:3.8.7
+-  nanconda navigator noteboook
 
 
-## Setup
+## Step 1
 
 download task.ipynb file
 
-## step 1
+## step 2
 
 -  open the task.ipynb in anaconda navigator notebook file if you ti run the code.
 
-## step 2
+## step 3
 
 -intsall all the packages, most them were already avaiable in the anaconda navigotor already.
