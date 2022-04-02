@@ -13,12 +13,12 @@ Project is created with:
 
 ## Step 1
 
-download task.ipynb file
+- download task.ipynb file
 
 ## step 2
 
--  open the task.ipynb in anaconda navigator notebook file if you ti run the code.
+- open the task.ipynb in anaconda navigator notebook file if you ti run the code.
 
 ## step 3
 
--intsall all the packages, most them were already avaiable in the anaconda navigotor already.
+- intsall all the packages, most them were already avaiable in the anaconda navigotor already.
