@@ -12,11 +12,11 @@ Project is created with:
 
 ## Setup
 
-download task.ipny file
+download task.ipynb file
 
 ## step 1
 
--  open the task.ipny in anaconda navigator notebook file if you ti run the code.
+-  open the task.ipynb in anaconda navigator notebook file if you ti run the code.
 
 ## step 2
 
