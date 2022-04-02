@@ -1,7 +1,7 @@
 # This is supplier ml solution
 
 ## General info
-engile enige test task
+agile enige test task
 
 ## Technologies
 
